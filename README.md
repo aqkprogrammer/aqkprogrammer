@@ -45,4 +45,4 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=aqkprogrammer&theme=dark&hide_border=true" width = 400>
 </p>
 
-Profile views: ![Profile views](https://profile-counter.glitch.me/aqkprogrammer/count.svg "Profile views")
+Profile views: ![Profile views](https://profile-counter.glitch.me/Qadir/count.svg "Profile views")
