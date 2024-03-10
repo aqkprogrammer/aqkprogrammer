@@ -34,17 +34,23 @@
 
 ## Quick overview
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqkprogrammer&show_icons=true&locale=en&layout=compact" alt="aqkprogrammer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqkprogrammer&show_icons=true&locale=en" alt="aqkprogrammer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqkprogrammer&" alt="aqkprogrammer" /></p>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Qadir&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Qadir&theme=dark&hide_border=true" width = 400>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Qadir&show_icons=true&locale=en&layout=compact" alt="Qadir" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Qadir&show_icons=true&locale=en&layout=compact" alt="Qadir" /></p>
 
 
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Qadir&layout=compact&hide=html&theme=jolly" alt="Qadir" />&nbsp;&nbsp;&nbsp;&nbsp; </p> -->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Qadir&layout=compact&hide=html&theme=jolly" alt="Qadir" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Qadir&" alt="Qadir" /></p> -->
-<!-- <p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Qadir&theme=material-palenight" /></p></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Qadir&" alt="Qadir" /></p>
+<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Qadir&theme=material-palenight" /></p></p>
 
 Profile views: ![Profile views](https://profile-counter.glitch.me/Qadir/count.svg "Profile views")
