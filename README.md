@@ -41,8 +41,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqkprogrammer&" alt="aqkprogrammer" /></p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Qadir&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Qadir&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=aqkprogrammer&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=aqkprogrammer&theme=dark&hide_border=true" width = 400>
 </p>
 
-Profile views: ![Profile views](https://profile-counter.glitch.me/Qadir/count.svg "Profile views")
+Profile views: ![Profile views](https://profile-counter.glitch.me/aqkprogrammer/count.svg "Profile views")
