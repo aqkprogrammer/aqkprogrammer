@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Full Stack Engineer | SaaS Builder | Lifelong Learner</h3>
 
 <p align="center">
+  🚀 Built SaaS, AI tools & scalable platforms • Helping businesses launch fast & grow efficiently
+</p>
+
+<p align="center">
   <a href="https://aqkhan.live/">🌐 Portfolio</a> •
   <a href="https://techhub.cafe/">✍️ Blog</a> •
   <a href="mailto:aqadirkhan93@gmail.com">📩 Email</a> •
@@ -19,15 +23,28 @@
 
 ---
 
+## 💼 Services I Offer
+
+* 🚀 SaaS Application Development (MVP → Scale)
+* 🛒 E-commerce Platforms (Custom & Multi-tenant)
+* 🤖 AI Integrations (Chatbots, AI features, automation)
+* 🌐 Business Websites (fast, SEO-friendly, conversion-focused)
+* ☁️ Cloud & Cost Optimization (AWS, performance tuning)
+* 🧑‍💻 Full Stack Development (Frontend + Backend APIs)
+
+> 💡 Available for freelance & long-term projects
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌱 Kartavya Agro (Client Project)
 
 🔗 https://kartavyaagro.vercel.app/
 
-* Website for a **nursery business (low-budget client)**
-* Lightweight, responsive, and SEO-friendly
-* Built for **lead generation & product visibility**
+* 🌿 Built for a nursery business with a limited budget
+* ⚡ Lightweight, responsive, and SEO-friendly
+* 🎯 Designed for **lead generation & product visibility**
 
 ---
 
@@ -35,11 +52,11 @@
 
 🔗 https://techhub-livid.vercel.app/
 
-* 🤖 AI-powered mock interviews
-* 📚 Interview question library
-* 📅 Daily coding challenges
-* 🔖 Bookmarks & dashboard
-* 💳 Paid tier + admin panel
+* 🤖 AI-powered mock interviews improving user practice consistency
+* 📚 Curated interview question library
+* 📅 Daily coding challenges to build learning streaks
+* 🔖 Bookmark system & progress dashboard
+* 💳 Paid tier with feature unlock system + admin panel
 
 **Stack:** Next.js, TypeScript, Tailwind, Supabase, OpenAI, Stripe
 
@@ -49,10 +66,11 @@
 
 🔗 https://ecommerce-saas-ten.vercel.app/
 
-* Multi-tenant platform (multiple stores)
-* Super Admin + Store dashboards
-* Dynamic product system (size, color, etc.)
-* Orders, inventory, and storefront customization
+* 🏬 Multi-tenant SaaS platform (multiple stores)
+* 👑 Super Admin + Store Admin dashboards
+* 🛍️ Dynamic product system (size, color, etc.)
+* 📦 Order & inventory management
+* 🎨 Customizable storefronts
 
 **Stack:** Next.js, FastAPI, PostgreSQL
 
@@ -62,11 +80,11 @@
 
 🔗 https://finops-saas-web-64vk.vercel.app/
 
-* 📊 AWS cost analytics dashboard
+* 📊 AWS cost analytics dashboard (last 30 days insights)
 * 🧠 Detects idle resources (EC2, EBS, snapshots)
-* 💰 Savings insights & reports
-* 🔐 Secure IAM-based integration
-* 💳 Subscription system (Stripe)
+* 💰 Shows potential monthly & yearly savings
+* 🔐 Secure IAM-based AWS integration
+* 💳 Subscription system (Stripe) + automated reports
 
 **Stack:** React, Node.js (Fastify), Supabase, AWS SDK
 
@@ -80,11 +98,20 @@
 
 ---
 
+## ⭐ Why Choose Me
+
+* ✅ Clean, maintainable, production-ready code
+* ⚡ Fast delivery without unnecessary complexity
+* 🧠 Strong product thinking (not just coding)
+* 🤝 Clear communication & reliability
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/aqkprogrammer"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://fb.com/aqkprogrammer"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://fb.com/aqkprogrammer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40"/></a>
 <a href="https://instagram.com/aq_khans"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://medium.com/@aqkprogrammer"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
@@ -109,6 +136,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqkprogrammer&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+---
+
+## 📬 Let's Work Together
+
+If you have an idea, need a developer, or want to build something impactful:
+
+📩 Email: [aqadirkhan93@gmail.com](mailto:aqadirkhan93@gmail.com)
+🌐 Portfolio: https://aqkhan.live
+
+> I usually respond within 24 hours 🚀
 
 ---
 
