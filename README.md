@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://aqkhan.live/">🌐 Portfolio</a> •
-  <a href="https://techhub.cafe/">✍️ Blog</a> •
-  <a href="mailto:aqadirkhan93@gmail.com">📩 Email</a> •
-  <a href="https://aqkhan.live/resume">📄 Resume</a>
+  <a href="https://aqkhan.live/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://techhub.cafe/" target="_blank">✍️ Blog</a> •
+  <a href="mailto:aqadirkhan93@gmail.com" target="_blank">📩 Email</a> •
+  <a href="https://aqkhan.live/resume" target="_blank">📄 Resume</a>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ### 🌱 Kartavya Agro (Client Project)
 
-🔗 https://kartavyaagro.vercel.app/
+🔗 <a href="https://kartavyaagro.vercel.app/" target="_blank">Visit Project</a>
 
 * 🌿 Built for a nursery business with a limited budget
 * ⚡ Lightweight, responsive, and SEO-friendly
@@ -50,7 +50,7 @@
 
 ### 🧠 TechHub – AI Interview Prep SaaS
 
-🔗 https://techhub-livid.vercel.app/
+🔗 <a href="https://techhub-livid.vercel.app/" target="_blank">Visit Project</a>
 
 * 🤖 AI-powered mock interviews improving user practice consistency
 * 📚 Curated interview question library
@@ -64,7 +64,7 @@
 
 ### 🛒 E-commerce SaaS Platform
 
-🔗 https://ecommerce-saas-ten.vercel.app/
+🔗 <a href="https://ecommerce-saas-ten.vercel.app/" target="_blank">Visit Project</a>
 
 * 🏬 Multi-tenant SaaS platform (multiple stores)
 * 👑 Super Admin + Store Admin dashboards
@@ -78,7 +78,7 @@
 
 ### 💰 FinOpsGuard – AWS Cost Optimization SaaS
 
-🔗 https://finops-saas-web-64vk.vercel.app/
+🔗 <a href="https://finops-saas-web-64vk.vercel.app/" target="_blank">Visit Project</a>
 
 * 📊 AWS cost analytics dashboard (last 30 days insights)
 * 🧠 Detects idle resources (EC2, EBS, snapshots)
@@ -110,10 +110,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/aqkprogrammer"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://fb.com/aqkprogrammer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40"/></a>
-<a href="https://instagram.com/aq_khans"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://medium.com/@aqkprogrammer"><img src="https://skillicons.dev/icons?i=devto" /></a>
+<a href="https://linkedin.com/in/aqkprogrammer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://fb.com/aqkprogrammer" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40"/></a>
+<a href="https://instagram.com/aq_khans" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://medium.com/@aqkprogrammer" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
 
 ---
@@ -143,8 +143,8 @@
 
 If you have an idea, need a developer, or want to build something impactful:
 
-📩 Email: [aqadirkhan93@gmail.com](mailto:aqadirkhan93@gmail.com)
-🌐 Portfolio: https://aqkhan.live
+📩 <a href="mailto:aqadirkhan93@gmail.com" target="_blank">Email Me</a>
+🌐 <a href="https://aqkhan.live/" target="_blank">Visit Portfolio</a>
 
 > I usually respond within 24 hours 🚀
 
