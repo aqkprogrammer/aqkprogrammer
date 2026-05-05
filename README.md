@@ -90,6 +90,20 @@
 
 ---
 
+### 💰 🛠️ Fleet Health AI – Predictive Vehicle Intelligence Platform  
+🔗 <a href="https://fleet-health-ai.vercel.app/" target="_blank">Visit Project</a>
+
+Built an AI-powered vehicle sound diagnostics platform that converts engine and EV motor audio into actionable health intelligence for fleets and drivers. Designed for early fault detection and operational visibility, the product combines public sound checks, fleet monitoring, automated alerts, vehicle-level scan tracking, and shareable health reports to help prevent breakdowns before they happen.
+
+* 🚗 AI-powered engine and EV motor sound analysis for early fault detection  
+* 📊 Fleet dashboard with health scores, alerts, and latest scan visibility  
+* 🎙️ Public sound-check flow with audio upload, recording, and instant result sharing  
+* 📄 Automated health reports with PDF generation and downloadable summaries  
+* 🔐 Fleet-scoped auth, role-based access, and operational monitoring workflows  
+
+**Stack:**  Next.js, TypeScript, Tailwind CSS, FastAPI, Python, PostgreSQL, SQLAlchemy, Docker
+
+
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
