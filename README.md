@@ -78,7 +78,7 @@
 
 ### 💰 FinOpsGuard – AWS Cost Optimization SaaS
 
-🔗 <a href="https://finops-saas-web-64vk.vercel.app/" target="_blank">Visit Project</a>
+🔗 <a href="https://finopsguard.vercel.app/" target="_blank">Visit Project</a>
 
 * 📊 AWS cost analytics dashboard (last 30 days insights)
 * 🧠 Detects idle resources (EC2, EBS, snapshots)
