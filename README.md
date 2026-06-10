@@ -50,7 +50,7 @@
 
 ### 🧠 TechHub – AI Interview Prep SaaS
 
-🔗 <a href="https://techhub-livid.vercel.app/" target="_blank">Visit Project</a>
+🔗 <a href="https://techhub.cafe/" target="_blank">Visit Project</a>
 
 * 🤖 AI-powered mock interviews improving user practice consistency
 * 📚 Curated interview question library
