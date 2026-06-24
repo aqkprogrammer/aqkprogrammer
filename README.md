@@ -198,6 +198,22 @@
 
 ---
 
+## 🧊 Contributions in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</p>
+
+---
+
+## 🧩 Metrics Snapshot
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="github metrics" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
