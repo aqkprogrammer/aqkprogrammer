@@ -77,7 +77,7 @@
 ---
 
 ### 🚗 Revio — Vehicle Ownership Intelligence Platform
-<sub>`Founder & Product Builder`</sub> · <i>🔗 live demo coming soon</i>
+<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://revio-drab.vercel.app/" target="_blank"><b>Visit Project</b></a>
 
 > A unified digital cockpit for the **entire vehicle lifecycle** — health, maintenance, insurance, and resale intelligence in one place.
 
@@ -202,11 +202,20 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
 <p align="center">
-  <img src="./github-trophies.svg" alt="GitHub achievements" />
+  <img src="https://img.shields.io/badge/Founder%20%26%20Product%20Builder-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/5%2B%20SaaS%20Products%20Shipped-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aqkprogrammer?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-2ea44f?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+> 🏅 Total stars earned, commits, PRs & streaks are in the **GitHub Stats** section below.
 
 ---
 
