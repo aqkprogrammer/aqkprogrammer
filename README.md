@@ -65,6 +65,22 @@
 
 ---
 
+### 📄 Contract AI — AI Contract Risk Analysis
+🔗 <a href="https://contract-ai-rho-six.vercel.app/" target="_blank"><b>Visit Project</b></a>
+
+> Upload a contract and get a clause-by-clause risk breakdown — then redline, compare & negotiate it, all in one workflow.
+
+- 📑 Clause-by-clause risk analysis — risk level, rationale, law reference & AI-suggested rewrite
+- 🤖 Powered by **Anthropic Claude** structured outputs, with a deterministic regex fallback
+- ✍️ AI redlines, contract comparison, playbooks & in-document contract chat
+- 🔔 Obligation tracking, renewal reminders & a real portfolio dashboard
+- 👥 Team collaboration with org tenancy, RBAC & audit logs
+- 💳 Stripe billing with usage quotas + Chrome extension & public API
+
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Anthropic Claude` · `Stripe` · `Tailwind`
+
+---
+
 ### 🛒 E-commerce SaaS Platform
 🔗 <a href="https://ecommerce-saas-ten.vercel.app/" target="_blank"><b>Visit Project</b></a>
 
