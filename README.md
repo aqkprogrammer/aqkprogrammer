@@ -1,141 +1,144 @@
-<h1 align="center">Hi 👋, I'm Abdul Qadir Khan</h1>
-<h3 align="center">🚀 Full Stack Engineer | SaaS Builder | Lifelong Learner</h3>
+<h1 align="center">Hi there 👋, I'm Abdul Qadir Khan</h1>
 
 <p align="center">
-  🚀 Built SaaS, AI tools & scalable platforms • Helping businesses launch fast & grow efficiently
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;SaaS+Builder+%26+Product+Thinker;AI+Integrations+%26+Automation;Python+Master+%F0%9F%90%8D;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">🚀 Full Stack Engineer · SaaS Builder · Product-Minded Developer</h3>
+
+<p align="center">
+  I design and ship <b>SaaS platforms, AI tools & scalable web apps</b> that help businesses launch fast and grow efficiently.
 </p>
 
 <p align="center">
-  <a href="https://aqkhan.live/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://techhub.cafe/" target="_blank">✍️ Blog</a> •
-  <a href="mailto:aqadirkhan93@gmail.com" target="_blank">📩 Email</a> •
-  <a href="https://aqkhan.live/resume" target="_blank">📄 Resume</a>
+  <a href="https://techhub.cafe/me" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://techhub.cafe/" target="_blank">✍️ Blog</a> &nbsp;•&nbsp;
+  <a href="mailto:aqadirkhan93@gmail.com" target="_blank">📩 Email</a> &nbsp;•&nbsp;
+  <a href="https://techhub.cafe/me" target="_blank">📄 Resume</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aqkprogrammer&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Python & AI**
-* 💬 Ask me about **React, Angular, JavaScript, TypeScript, Node.js, PHP**
-* ⚡ I build **scalable SaaS apps & real-world client solutions**
-* 🎯 Focused on **performance, clean UI, and business impact**
+- 🐍 **Master in Python** — building AI-driven backends, automations & data tools
+- 🤖 Deep into **AI integrations** — LLMs, chatbots, audio intelligence & automation
+- 💬 Ask me about **React, Angular, JavaScript, TypeScript, Node.js, PHP, FastAPI**
+- ⚡ I build **scalable SaaS apps & real-world client solutions** end to end
+- 🎯 Focused on **performance, clean UI, and measurable business impact**
+- 🤝 Open to **freelance & long-term collaborations**
 
 ---
 
-## 💼 Services I Offer
+## 💼 What I Do
 
-* 🚀 SaaS Application Development (MVP → Scale)
-* 🛒 E-commerce Platforms (Custom & Multi-tenant)
-* 🤖 AI Integrations (Chatbots, AI features, automation)
-* 🌐 Business Websites (fast, SEO-friendly, conversion-focused)
-* ☁️ Cloud & Cost Optimization (AWS, performance tuning)
-* 🧑‍💻 Full Stack Development (Frontend + Backend APIs)
+| | Service |
+|---|---|
+| 🚀 | **SaaS Development** — from MVP to scale |
+| 🛒 | **E-commerce Platforms** — custom & multi-tenant |
+| 🤖 | **AI Integrations** — chatbots, AI features, automation |
+| 🌐 | **Business Websites** — fast, SEO-friendly, conversion-focused |
+| ☁️ | **Cloud & Cost Optimization** — AWS, performance tuning |
+| 🧑‍💻 | **Full Stack Engineering** — frontend + backend APIs |
 
-> 💡 Available for freelance & long-term projects
+> 💡 Available for freelance & long-term projects — let's build something that ships.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌱 Kartavya Agro (Client Project)
+### 🧠 TechHub — AI Interview Prep SaaS
+🔗 <a href="https://techhub.cafe/" target="_blank"><b>Visit Project</b></a>
 
-🔗 <a href="https://kartavyaagro.vercel.app/" target="_blank">Visit Project</a>
+> AI-powered mock interviews that keep learners consistent and job-ready.
 
-* 🌿 Built for a nursery business with a limited budget
-* ⚡ Lightweight, responsive, and SEO-friendly
-* 🎯 Designed for **lead generation & product visibility**
+- 🤖 AI mock interviews improving practice consistency
+- 📚 Curated interview question library + 📅 daily coding challenges
+- 🔖 Bookmarks, progress dashboard & learning streaks
+- 💳 Paid tier with feature-unlock system + admin panel
 
----
-
-### 🧠 TechHub – AI Interview Prep SaaS
-
-🔗 <a href="https://techhub.cafe/" target="_blank">Visit Project</a>
-
-* 🤖 AI-powered mock interviews improving user practice consistency
-* 📚 Curated interview question library
-* 📅 Daily coding challenges to build learning streaks
-* 🔖 Bookmark system & progress dashboard
-* 💳 Paid tier with feature unlock system + admin panel
-
-**Stack:** Next.js, TypeScript, Tailwind, Supabase, OpenAI, Stripe
+`Next.js` · `TypeScript` · `Tailwind` · `Supabase` · `OpenAI` · `Stripe`
 
 ---
 
 ### 🛒 E-commerce SaaS Platform
+🔗 <a href="https://ecommerce-saas-ten.vercel.app/" target="_blank"><b>Visit Project</b></a>
 
-🔗 <a href="https://ecommerce-saas-ten.vercel.app/" target="_blank">Visit Project</a>
+> Multi-tenant commerce platform powering multiple independent stores.
 
-* 🏬 Multi-tenant SaaS platform (multiple stores)
-* 👑 Super Admin + Store Admin dashboards
-* 🛍️ Dynamic product system (size, color, etc.)
-* 📦 Order & inventory management
-* 🎨 Customizable storefronts
+- 🏬 Multi-tenant architecture (multiple stores, one platform)
+- 👑 Super Admin + Store Admin dashboards
+- 🛍️ Dynamic product system (size, color, variants)
+- 📦 Order & inventory management with customizable storefronts
 
-**Stack:** Next.js, FastAPI, PostgreSQL
-
----
-
-### 💰 FinOpsGuard – AWS Cost Optimization SaaS
-
-🔗 <a href="https://finopsguard.vercel.app/" target="_blank">Visit Project</a>
-
-* 📊 AWS cost analytics dashboard (last 30 days insights)
-* 🧠 Detects idle resources (EC2, EBS, snapshots)
-* 💰 Shows potential monthly & yearly savings
-* 🔐 Secure IAM-based AWS integration
-* 💳 Subscription system (Stripe) + automated reports
-
-**Stack:** React, Node.js (Fastify), Supabase, AWS SDK
+`Next.js` · `FastAPI` · `PostgreSQL`
 
 ---
 
-### 💰 🛠️ Fleet Health AI – Predictive Vehicle Intelligence Platform  
-🔗 <a href="https://fleet-health-ai.vercel.app/" target="_blank">Visit Project</a>
+### 💰 FinOpsGuard — AWS Cost Optimization SaaS
+🔗 <a href="https://finopsguard.vercel.app/" target="_blank"><b>Visit Project</b></a>
 
-Built an AI-powered vehicle sound diagnostics platform that converts engine and EV motor audio into actionable health intelligence for fleets and drivers. Designed for early fault detection and operational visibility, the product combines public sound checks, fleet monitoring, automated alerts, vehicle-level scan tracking, and shareable health reports to help prevent breakdowns before they happen.
+> Turns raw AWS spend into clear savings opportunities.
 
-* 🚗 AI-powered engine and EV motor sound analysis for early fault detection  
-* 📊 Fleet dashboard with health scores, alerts, and latest scan visibility  
-* 🎙️ Public sound-check flow with audio upload, recording, and instant result sharing  
-* 📄 Automated health reports with PDF generation and downloadable summaries  
-* 🔐 Fleet-scoped auth, role-based access, and operational monitoring workflows  
+- 📊 AWS cost analytics dashboard (last 30-day insights)
+- 🧠 Detects idle resources (EC2, EBS, snapshots)
+- 💰 Surfaces potential monthly & yearly savings
+- 🔐 Secure IAM-based integration + Stripe subscriptions & automated reports
 
-**Stack:**  Next.js, TypeScript, Tailwind CSS, FastAPI, Python, PostgreSQL, SQLAlchemy, Docker
+`React` · `Node.js (Fastify)` · `Supabase` · `AWS SDK`
 
+---
+
+### 🛠️ Fleet Health AI — Predictive Vehicle Intelligence
+🔗 <a href="https://fleet-health-ai.vercel.app/" target="_blank"><b>Visit Project</b></a>
+
+> Converts engine & EV motor audio into actionable vehicle health intelligence — catching faults before they become breakdowns.
+
+- 🚗 AI-powered engine & EV motor sound analysis for early fault detection
+- 📊 Fleet dashboard with health scores, alerts & latest-scan visibility
+- 🎙️ Public sound-check flow with audio upload, recording & instant sharing
+- 📄 Automated health reports with PDF generation & downloadable summaries
+- 🔐 Fleet-scoped auth, role-based access & operational monitoring
+
+`Next.js` · `TypeScript` · `Tailwind` · `FastAPI` · `Python` · `PostgreSQL` · `SQLAlchemy` · `Docker`
+
+---
+
+### 🌱 Kartavya Agro — Client Project
+🔗 <a href="https://kartavyaagro.vercel.app/" target="_blank"><b>Visit Project</b></a>
+
+> Lightweight, lead-focused website built for a nursery business on a tight budget.
+
+- 🌿 Built for a nursery business with a limited budget
+- ⚡ Lightweight, responsive & SEO-friendly
+- 🎯 Designed for **lead generation & product visibility**
+
+---
 
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## ⭐ Why Choose Me
+## ⭐ Why Work With Me
 
-* ✅ Clean, maintainable, production-ready code
-* ⚡ Fast delivery without unnecessary complexity
-* 🧠 Strong product thinking (not just coding)
-* 🤝 Clear communication & reliability
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/aqkprogrammer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://fb.com/aqkprogrammer" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40"/></a>
-<a href="https://instagram.com/aq_khans" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://medium.com/@aqkprogrammer" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
-</p>
+- ✅ Clean, maintainable, production-ready code
+- ⚡ Fast delivery without unnecessary complexity
+- 🧠 Strong product thinking — not just coding
+- 🤝 Clear communication & reliability
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,js,ts,nodejs,php,python,nextjs,tailwind,docker,aws,mongodb,postgresql,redis,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,angular,js,ts,nodejs,php,tailwind,docker,aws,mongodb,postgresql,redis,firebase,git" />
 </p>
 
 ---
@@ -143,12 +146,24 @@ Built an AI-powered vehicle sound diagnostics platform that converts engine and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqkprogrammer&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aqkprogrammer&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aqkprogrammer&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqkprogrammer&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqkprogrammer&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://techhub.cafe/me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aqkprogrammer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@aqkprogrammer" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://fb.com/aqkprogrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/aq_khans" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -157,21 +172,10 @@ Built an AI-powered vehicle sound diagnostics platform that converts engine and 
 
 If you have an idea, need a developer, or want to build something impactful:
 
-📩 <a href="mailto:aqadirkhan93@gmail.com" target="_blank">Email Me</a>
-🌐 <a href="https://aqkhan.live/" target="_blank">Visit Portfolio</a>
+📩 <a href="mailto:aqadirkhan93@gmail.com" target="_blank"><b>Email Me</b></a> &nbsp;·&nbsp; 🌐 <a href="https://techhub.cafe/me" target="_blank"><b>Visit Portfolio</b></a>
 
 > I usually respond within 24 hours 🚀
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqkprogrammer&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-> Build real products. Solve real problems. Keep learning. 🚀
+<p align="center"><i>⚡ Build real products. Solve real problems. Keep learning. 🚀</i></p>
