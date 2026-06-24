@@ -53,42 +53,97 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Founder & Product Builder
 
-### 🧠 TechHub — AI Interview Prep SaaS
-🔗 <a href="https://techhub.cafe/" target="_blank"><b>Visit Project</b></a>
+> Products I've taken from a blank canvas to live, paying-user platforms — owning the **strategy, architecture, build, deployment, growth, and operations** end-to-end.
 
-> AI-powered mock interviews that keep learners consistent and job-ready.
+---
 
-- 🤖 AI mock interviews improving practice consistency
-- 📚 Curated interview question library + 📅 daily coding challenges
-- 🔖 Bookmarks, progress dashboard & learning streaks
-- 💳 Paid tier with feature-unlock system + admin panel
+### 🧠 TechHub.Cafe — Developer Learning & Interview Prep Platform
+<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://techhub.cafe/" target="_blank"><b>Visit Project</b></a>
+
+> A developer-focused learning platform that takes engineers from *"still studying"* to *interview-ready* — across Full Stack, System Design, JavaScript, React, Node.js & Cloud.
+
+- 🎯 **AI-powered mock interviews** that adapt to each user and build practice consistency
+- 🗂️ Scalable **content-management architecture** powering categorized prep tracks & technical learning material
+- 🔍 Advanced **search, filtering, bookmarking & guided workflows** for frictionless knowledge discovery
+- 📅 **Daily coding challenges**, progress dashboards & streaks engineered for learning retention
+- 🚀 **SEO-optimized content delivery** driving organic traffic & developer acquisition
+- 💳 Subscription tier with feature-unlock gating + a full **admin panel**
+- 🧭 Owned product strategy, feature roadmap, architecture, CI/CD & platform operations
 
 `Next.js` · `TypeScript` · `Tailwind` · `Supabase` · `OpenAI` · `Stripe`
 
 ---
 
-### 📄 Contract AI — AI Contract Risk Analysis
-🔗 <a href="https://contract-ai-rho-six.vercel.app/" target="_blank"><b>Visit Project</b></a>
+### 🚗 Revio — Vehicle Ownership Intelligence Platform
+<sub>`Founder & Product Builder`</sub> · <i>🔗 live demo coming soon</i>
 
-> Upload a contract and get a clause-by-clause risk breakdown — then redline, compare & negotiate it, all in one workflow.
+> A unified digital cockpit for the **entire vehicle lifecycle** — health, maintenance, insurance, and resale intelligence in one place.
 
-- 📑 Clause-by-clause risk analysis — risk level, rationale, law reference & AI-suggested rewrite
-- 🤖 Powered by **Anthropic Claude** structured outputs, with a deterministic regex fallback
-- ✍️ AI redlines, contract comparison, playbooks & in-document contract chat
-- 🔔 Obligation tracking, renewal reminders & a real portfolio dashboard
-- 👥 Team collaboration with org tenancy, RBAC & audit logs
-- 💳 Stripe billing with usage quotas + Chrome extension & public API
+- 🧠 AI-powered **vehicle health monitoring**, maintenance tracking, insurance management & service-history analysis
+- 📈 **Predictive ownership scoring** built from insurance, service, battery, tyre, warranty, recall & usage signals
+- 📊 Real-time **dashboards** delivering actionable insights, alerts, maintenance recommendations & ownership analytics
+- 🏗️ Scalable **microservices + cloud architecture** designed to integrate dealerships, insurers, workshops & fleet operators
+- 🔐 Role-based administration, notification systems, reporting modules & customer-engagement workflows
+
+`Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle` · `Microservices` · `Cloud`
+
+---
+
+### 📄 ContractAI — AI Contract Intelligence Platform
+<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://contract-ai-rho-six.vercel.app/" target="_blank"><b>Visit Project</b></a>
+
+> Turns hours of legal reading into minutes of insight — automating contract review, risk assessment, clause extraction & compliance analysis.
+
+- 📑 **AI risk scoring & red-flag detection** across NDAs, MSAs, SaaS, employment & vendor agreements
+- 🧠 Intelligent **clause extraction & summaries** of obligations, liabilities, renewals & negotiation points (Anthropic Claude, with a deterministic regex fallback)
+- 🔄 **Clause comparison & version analysis** to accelerate negotiation and legal-review cycles
+- 📊 Enterprise **dashboards** with risk visibility, approval workflows & audit tracking
+- 🔐 Secure document pipelines with role-based permissions, activity logging & full lifecycle management
+- 💳 Multi-tenant SaaS — org tenancy, usage quotas, a Chrome extension & a public API
 
 `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Anthropic Claude` · `Stripe` · `Tailwind`
 
 ---
 
+### 💰 FinOpsGuard — AI Cloud Cost Intelligence Platform
+<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://finopsguard.vercel.app/" target="_blank"><b>Visit Project</b></a>
+
+> Conversational FinOps that turns messy multi-cloud spend into plain-English savings — across **AWS, Azure & GCP**.
+
+- 💬 **Conversational AI** that explains cost anomalies, resource waste & optimization opportunities on demand
+- 📊 Cost-analytics dashboards with **forecasting, budgeting, anomaly detection & cost allocation**
+- ☸️ **Kubernetes & container cost visibility** for sharper infrastructure utilization & governance
+- 📈 **Executive reporting** on cloud efficiency, cost trends & financial accountability
+- 🏢 Scalable **multi-tenant SaaS** with role-based access control, reporting & subscription management
+- 🔐 Secure IAM-based integration + Stripe billing & automated reports
+
+`React` · `Node.js (Fastify)` · `Supabase` · `AWS SDK`
+
+---
+
+### 🛠️ Fleet Health AI — Predictive Vehicle Diagnostics
+<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://fleet-health-ai.vercel.app/" target="_blank"><b>Visit Project</b></a>
+
+> Converts engine & EV-motor audio into actionable vehicle health intelligence — catching faults *before* they become breakdowns.
+
+- 🚗 AI-powered engine & EV-motor **sound analysis** for early fault detection
+- 📊 Fleet **dashboard** with health scores, alerts & latest-scan visibility
+- 🎙️ Public **sound-check flow** with audio upload, recording & instant sharing
+- 📄 Automated **health reports** with PDF generation & downloadable summaries
+- 🔐 Fleet-scoped auth, role-based access & operational monitoring
+
+`Next.js` · `TypeScript` · `Tailwind` · `FastAPI` · `Python` · `PostgreSQL` · `SQLAlchemy` · `Docker`
+
+---
+
+## 🧩 More Projects
+
 ### 🛒 E-commerce SaaS Platform
 🔗 <a href="https://ecommerce-saas-ten.vercel.app/" target="_blank"><b>Visit Project</b></a>
 
-> Multi-tenant commerce platform powering multiple independent stores.
+> Multi-tenant commerce platform powering multiple independent stores from one codebase.
 
 - 🏬 Multi-tenant architecture (multiple stores, one platform)
 - 👑 Super Admin + Store Admin dashboards
@@ -96,35 +151,6 @@
 - 📦 Order & inventory management with customizable storefronts
 
 `Next.js` · `FastAPI` · `PostgreSQL`
-
----
-
-### 💰 FinOpsGuard — AWS Cost Optimization SaaS
-🔗 <a href="https://finopsguard.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> Turns raw AWS spend into clear savings opportunities.
-
-- 📊 AWS cost analytics dashboard (last 30-day insights)
-- 🧠 Detects idle resources (EC2, EBS, snapshots)
-- 💰 Surfaces potential monthly & yearly savings
-- 🔐 Secure IAM-based integration + Stripe subscriptions & automated reports
-
-`React` · `Node.js (Fastify)` · `Supabase` · `AWS SDK`
-
----
-
-### 🛠️ Fleet Health AI — Predictive Vehicle Intelligence
-🔗 <a href="https://fleet-health-ai.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> Converts engine & EV motor audio into actionable vehicle health intelligence — catching faults before they become breakdowns.
-
-- 🚗 AI-powered engine & EV motor sound analysis for early fault detection
-- 📊 Fleet dashboard with health scores, alerts & latest-scan visibility
-- 🎙️ Public sound-check flow with audio upload, recording & instant sharing
-- 📄 Automated health reports with PDF generation & downloadable summaries
-- 🔐 Fleet-scoped auth, role-based access & operational monitoring
-
-`Next.js` · `TypeScript` · `Tailwind` · `FastAPI` · `Python` · `PostgreSQL` · `SQLAlchemy` · `Docker`
 
 ---
 
@@ -176,10 +202,10 @@
 
 ---
 
-## 🏆 Trophy Case
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aqkprogrammer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="./github-trophies.svg" alt="GitHub achievements" />
 </p>
 
 ---
