@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Abdul%20Qadir%20Khan&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20AI%20Tinkerer&descAlignY=58&descSize=18" alt="header" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Abdul Qadir Khan</h1>
 
 <p align="center">
@@ -172,6 +176,28 @@
 
 ---
 
+## 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aqkprogrammer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqkprogrammer&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity" alt="activity graph" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -195,3 +221,7 @@ If you have an idea, need a developer, or want to build something impactful:
 ---
 
 <p align="center"><i>⚡ Build real products. Solve real problems. Keep learning. 🚀</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=120&section=footer" alt="footer" />
+</p>
