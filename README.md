@@ -257,14 +257,10 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 ## ◆ Activity
 
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%">
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img alt="GitHub activity over the last 12 weeks" src="assets/activity-dark.svg" width="100%">
 </picture>
 
 
