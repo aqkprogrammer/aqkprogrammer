@@ -19,3 +19,5 @@ require('sharp')('public/me/portrait/qadir.webp')
 "
 python3 "$ROOT/scripts/hero.py" "$TMP/portrait.b64" "$ROOT/assets/hero-{theme}.svg" "$TMP/data.json"
 python3 "$ROOT/scripts/readme.py" "$TMP/data.json" "$ROOT"
+# Social-preview cards for repos (upload by hand: Settings → General → Social preview).
+node "$ROOT/scripts/social.cjs" "$TMP/data.json" "$ROOT/assets/social"
