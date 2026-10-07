@@ -276,7 +276,7 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 
 I typically reply within 48 hours, IST-friendly.
 
-<a href="https://techhub.cafe/me#contact"><img alt="Start a conversation" src="https://img.shields.io/badge/Start%20a%20conversation-0aa5c8?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0b1020"></a> <a href="https://medium.com/@aqkprogrammer"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b1020"></a> <a href="https://instagram.com/aq_khans"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1020"></a>
+<a href="https://techhub.cafe/me#contact"><img alt="Start a conversation" src="https://img.shields.io/badge/Start%20a%20conversation-0aa5c8?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0b1020"></a> <a href="https://medium.com/@aqkprogrammer"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b1020"></a> <a href="https://www.instagram.com/aqkprogrammer/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1020"></a>
 
 <sub>Every project above has a case study at <a href="https://techhub.cafe/me">techhub.cafe/me</a> — 55 builds, each labelled for exactly what it is.</sub>
 
