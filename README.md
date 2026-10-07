@@ -1,278 +1,283 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Abdul Qadir Khan — Full Stack AI Engineer, Lead Software Engineer and Forward Deployed Engineer" src="assets/hero-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<a href="https://techhub.cafe/me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0aa5c8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1020"></a> <a href="https://techhub.cafe/me/resume"><img alt="Résumé" src="https://img.shields.io/badge/Résumé-7a63f0?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0b1020"></a> <a href="https://www.linkedin.com/in/aqadirkhan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020"></a> <a href="mailto:aqadirkhan93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1020"></a>
+
+
+**AI engineer, forward deployed — I go where the problem lives and ship the system that solves it.**
+
+<sub>Full Stack AI Engineer · Lead Software Engineer · Forward Deployed Engineer · 10+ years in production</sub>
+
+</div>
+
+
+## ◆ whoami
+
+
+```yaml
+role:     Full Stack AI Engineer · Lead Engineer · Forward Deployed
+latest:   Senior Software Engineer @ Tractable AI (2025 — 2026)
+          computer-vision model integration for AI vehicle inspection
+led:      front-end for L’Oréal’s oneMediaTech @ Annalect · Omnicom
+          Express monolith → FastAPI microservices on Kubernetes
+on_site:  Volkswagen (Munich) · Emirates (Dubai)
+builds:   tool-calling agents with human approval gates
+          hybrid RAG with reranking + citation checks · LLM evals
+          Indic voice pipelines · on-device models on Apple silicon
+ships:    product → architecture → code → deploy → ops
+open_to:  senior, lead & forward-deployed roles · freelance AI work
+```
+
+
+## ◆ Flagship — CluePilot.ai
+
+<sub>Product · Signed DMG · paid checkout pending</sub>
+
+
+<a href="https://techhub.cafe/me/work/cluepilot"><img src="assets/shots/cluepilot.webp" alt="CluePilot answering an interview question on macOS" width="100%"></a>
+
+**A native macOS interview-prep copilot — one keystroke, streamed answers, grounded in your own documents.**
+A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers from eight providers — including on-device Apple Intelligence and Ollama. Context Spaces add on-device retrieval over your résumé and notes; licensing is verified offline with Ed25519.
+
+`Swift` `SwiftUI` `AppKit` `Next.js` `React` `Tailwind`
+
+<a href="https://cluepilot-phi.vercel.app">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/cluepilot">Case&nbsp;study</a>
+
+
+## ◆ Featured builds
+
+<sub>Click a screenshot for the full case study — problem, architecture, trade-offs and evidence.</sub>
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/cardcopilot"><img src="assets/shots/cardcopilot.webp" alt="CardCopilot screenshot" width="100%"></a>
+<h3>CardCopilot</h3>
+<sub><b>PRODUCT · MOBILE APP IN DEVELOPMENT</b></sub>
+<p>India's credit-card rewards engine — deterministic maths, with an AI that is only allowed to narrate it.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Prisma</code></p>
+<p><a href="https://cardcopilot.in">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/cardcopilot">Case&nbsp;study</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/kavrix"><img src="assets/shots/kavrix.webp" alt="Kavrix screenshot" width="100%"></a>
+<h3>Kavrix</h3>
+<sub><b>PROTOTYPE · PRE-RELEASE 0.1.0 · NOT DEPLOYED</b></sub>
+<p>Authorization-gated AI application security — it only reports findings it has re-verified with evidence.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>Redis</code></p>
+<p><a href="https://kavrix-web.onrender.com">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/kavrix">Case&nbsp;study</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/techhub"><img src="assets/shots/techhub.webp" alt="techhub.cafe screenshot" width="100%"></a>
+<h3>techhub.cafe</h3>
+<sub><b>PRODUCT · IN PRODUCTION · ACTIVELY DEVELOPED</b></sub>
+<p>An AI-assisted interview-prep and career platform — question bank, mock interviews, sandboxed coding and a recruiter portal.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Supabase</code></p>
+<p><a href="https://techhub.cafe">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/techhub">Case&nbsp;study</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/growzen"><img src="assets/shots/growzen.webp" alt="Growzen.ai screenshot" width="100%"></a>
+<h3>Growzen.ai</h3>
+<sub><b>IN DEVELOPMENT · FEATURE-COMPLETE, PRE-LAUNCH</b></sub>
+<p>AI growth platform: Claude-driven synthetic users test your site in a real browser, then an agent tells you what to fix.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>PostgreSQL</code></p>
+<p><a href="https://growzen-6ygk.onrender.com">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/growzen">Case&nbsp;study</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/dowel"><img src="assets/shots/dowel.webp" alt="Dowel UI screenshot" width="100%"></a>
+<h3>Dowel UI</h3>
+<sub><b>PRODUCT · PUBLISHED ON NPM · V0.11</b></sub>
+<p>A source-first React component library for SaaS and AI products — installed as code you own, readable by coding agents.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Next.js</code> <code>Storybook</code></p>
+<p><a href="https://dowel-eight.vercel.app">Live&nbsp;↗</a> · <a href="https://github.com/aqkprogrammer/dowel-ui">Code</a> · <a href="https://techhub.cafe/me/work/dowel">Case&nbsp;study</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/novaryn"><img src="assets/shots/novaryn.webp" alt="Novaryn screenshot" width="100%"></a>
+<h3>Novaryn</h3>
+<sub><b>PROTOTYPE · HOSTED IN DEMO MODE</b></sub>
+<p>Self-hostable AI operations platform — governed agents, a workflow engine, RAG and human approvals.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>PostgreSQL</code></p>
+<p><a href="https://novaryn-lyart.vercel.app">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/novaryn">Case&nbsp;study</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/salariax"><img src="assets/shots/salariax.webp" alt="Salariax screenshot" width="100%"></a>
+<h3>Salariax</h3>
+<sub><b>PRODUCT · PRE-LAUNCH · FREE-TIER HOST</b></sub>
+<p>Payroll for Indian small businesses moving off Excel and WhatsApp — every figure traced to its arithmetic.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>PostgreSQL</code></p>
+<p><a href="https://salariax.onrender.com">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/salariax">Case&nbsp;study</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://techhub.cafe/me/work/docintel"><img src="assets/shots/docintel.webp" alt="DocIntel screenshot" width="100%"></a>
+<h3>DocIntel</h3>
+<sub><b>IN DEVELOPMENT · ADVANCED PROTOTYPE</b></sub>
+<p>Enterprise document intelligence: storage, PDF toolkit, OCR, e-signature and a cited RAG assistant across 17 services.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Celery</code> <code>PostgreSQL</code></p>
+<p><a href="https://docintel.vercel.app">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/docintel">Case&nbsp;study</a></p>
+</td>
+</tr>
+</table>
+
+
+## ◆ AI systems & open source
+
+<sub>Agents, gateways, evals, RAG and voice — the infrastructure under the products.</sub>
+
+
+| Project | What it is | Status | Links |
+|---|---|---|---|
+| **LLM Gateway** | OpenAI-compatible proxy with fallback routing, circuit breakers, per-team budgets and full observability. | <sub>Demo · Open source</sub> | <a href="https://github.com/aqkprogrammer/llm-gateway">Code</a><br><a href="https://techhub.cafe/me/work/llm-gateway">Case&nbsp;study</a> |
+| **LLM Eval Platform** | Evaluation and observability for LLM apps — from CI regression gates to live production scoring. | <sub>Demo · Open source · runs offline</sub> | <a href="https://github.com/aqkprogrammer/llm-eval-platform">Code</a><br><a href="https://techhub.cafe/me/work/llm-eval-platform">Case&nbsp;study</a> |
+| **Agent Orchestrator** | LangGraph multi-agent system: a supervisor delegates to specialists, and risky actions pause for a human. | <sub>Demo · Open source · runs offline</sub> | <a href="https://github.com/aqkprogrammer/agent-orchestrator">Code</a><br><a href="https://techhub.cafe/me/work/agent-orchestrator">Case&nbsp;study</a> |
+| **Hybrid RAG** | Question answering over internal docs with hybrid retrieval, reranking and citations verified after generation. | <sub>Demo · Open source · runs offline</sub> | <a href="https://github.com/aqkprogrammer/rag-hybrid-search">Code</a><br><a href="https://techhub.cafe/me/work/rag-hybrid-search">Case&nbsp;study</a> |
+| **AI Software Factory** | An AI engineering team you can watch work — plan, code, test, fix and review agents streaming into a live office. | <sub>Demo · Hosted build runs a simulation</sub> | <a href="https://ai-software-factory-qadir-khan.vercel.app">Live&nbsp;↗</a><br><a href="https://github.com/aqkprogrammer/ai-software-factory">Code</a><br><a href="https://techhub.cafe/me/work/ai-software-factory">Case&nbsp;study</a> |
+| **Latency Spike** | Measures speech-end to first-audio latency for a voice agent, hop by hop — and a fused endpointer that fixes the biggest hop. | <sub>Experiment · Open source spike</sub> | <a href="https://github.com/aqkprogrammer/latency-spike">Code</a><br><a href="https://techhub.cafe/me/work/latency-spike">Case&nbsp;study</a> |
+| **aiplatform** | A Python framework of AI building blocks — a new product (“vertical”) is meant to be about 40 lines on top. | <sub>Experiment · Framework prototype</sub> | <a href="https://techhub.cafe/me/work/aiplatform">Case&nbsp;study</a> |
+| **Swara** | Indic-first text-to-speech API built for telephone audio and Hinglish, priced in rupees. | <sub>Experiment · Pre-launch prototype</sub> | <a href="https://techhub.cafe/me/work/swara">Case&nbsp;study</a> |
+| **IndicTurn & Voice Lab** | Voice-AI research: turn detection that doesn't cut off a “haan”, and a phone-line test bench for Indic speech models. | <sub>Experiment · Research on synthetic audio</sub> | <a href="https://techhub.cafe/me/work/indic-voice">Case&nbsp;study</a> |
+| **Local LLM Chat** | A 27B-parameter Qwen model running fully offline on a 16 GB Apple Silicon Mac, with a streaming chat UI. | <sub>Experiment</sub> | <a href="https://techhub.cafe/me/work/local-llm-chat">Case&nbsp;study</a> |
+
+
+## ◆ More AI products
+
+
+| Project | What it is | Status | Links |
+|---|---|---|---|
+| **PayToRoast** | Paste a URL, get a specific, comedic and genuinely useful teardown of your website. First roast free. | <sub>Product · Deploy-ready · domain not live</sub> | <a href="https://paytoroast.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/paytoroast">Case&nbsp;study</a> |
+| **ContractRisk (Contract AI)** | Clause-by-clause contract risk review with redlines — plus a citation-validated legal assistant for Indian law. | <sub>Prototype</sub> | <a href="https://contract-ai-seven-snowy.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/contract-ai">Case&nbsp;study</a> |
+| **FinOpsGuard** | AWS cost optimisation: a rules engine finds waste, an LLM explains it to engineering, finance or the CEO. | <sub>Prototype · MVP</sub> | <a href="https://finopsguard-inky.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/finopsguard">Case&nbsp;study</a> |
+| **Revio** | Vehicle ownership platform for India — garage, reminders, OCR document vault, marketplace and an AI copilot. | <sub>Prototype</sub> | <a href="https://revio-ten-zeta.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/revio">Case&nbsp;study</a> |
+| **Branexa** | AI brand operating system: brief in, a scored vector logo system and a full brand kit out. | <sub>Prototype · Deploy config ready · not live</sub> | <a href="https://techhub.cafe/me/work/branexa">Case&nbsp;study</a> |
+| **JARVIS** | Self-hosted multi-provider AI assistant platform — chat, RAG, agents, workflows and voice in one compose stack. | <sub>Prototype</sub> | <a href="https://techhub.cafe/me/work/jarvis">Case&nbsp;study</a> |
+| **TruthLens AI** | Fake-news detection with a fine-tuned DistilBERT, confidence gauges and sentence-level suspicion highlights. | <sub>Demo</sub> | <a href="https://techhub.cafe/me/work/truthlens">Case&nbsp;study</a> |
+
+
+<details>
+<summary><b>Native macOS</b> — 6 builds</summary>
+
+| Project | What it is | Status | Links |
+|---|---|---|---|
+| **Aether** | A local-first AI command centre for Apple Silicon — model, speech and memory all on the device. | <sub>Prototype · Phases 0–5 built</sub> | <a href="https://techhub.cafe/me/work/aether">Case&nbsp;study</a> |
+| **Vision** | On-device face recognition for Mac and Chrome — unlock with a glance, lock when you walk away. | <sub>Demo · Independent re-implementation</sub> | <a href="https://techhub.cafe/me/work/vision">Case&nbsp;study</a> |
+| **Hangly** | Digital charms that swing from the top of your screen with real rope physics — Mac app and Chrome extension. | <sub>Demo · Independent re-implementation</sub> | <a href="https://techhub.cafe/me/work/hangly">Case&nbsp;study</a> |
+| **DeskPal** | A desktop companion that walks onto your screen and asks if you drank water — macOS menu-bar app. | <sub>Demo · Reel recreation</sub> | <a href="https://techhub.cafe/me/work/deskpal">Case&nbsp;study</a> |
+| **FlyBy** | Meeting reminders that fly across your screen on a little pink jet — macOS menu-bar app. | <sub>Demo · Reel recreation</sub> | <a href="https://techhub.cafe/me/work/flyby">Case&nbsp;study</a> |
+| **WebHang** | A character hangs from a web at the top of your screen and swings over your work — macOS overlay. | <sub>Demo · Reel recreation</sub> | <a href="https://techhub.cafe/me/work/web-hang">Case&nbsp;study</a> |
+
+</details>
+
+
+<details>
+<summary><b>Interactive & gesture lab</b> — 12 builds</summary>
+
+| Project | What it is | Status | Links |
+|---|---|---|---|
+| **Demos Platform** | A registry-driven hub for the interactive demos, and @demos/vision — a shared hand-tracking runtime extracted from five apps. | <sub>In development · Porting in progress</sub> | <a href="https://demos-platform.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/demos-platform">Case&nbsp;study</a> |
+| **Gesture Arena** | A browser arcade of eight games played entirely with hand gestures — no controller. | <sub>Demo</sub> | <a href="https://gesture-arena-neon.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/gesture-arena">Case&nbsp;study</a> |
+| **AIR MUSIC** | Play piano, drums, DJ decks and a rhythm game in the air — webcam in, Web Audio out. | <sub>Demo</sub> | <a href="https://hand-piano-nine.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/air-music">Case&nbsp;study</a> |
+| **Air Wheel** | Steer a racing game with an imaginary wheel held between your hands. | <sub>Demo</sub> | <a href="https://air-wheel.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/air-wheel">Case&nbsp;study</a> |
+| **Bloom** | A 3D garden you plant, light, pollinate and prune with hand gestures. | <sub>Demo</sub> | <a href="https://bloom-garden-ivory.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/bloom">Case&nbsp;study</a> |
+| **Aviary** | A butterfly flock in a containment box you resize and rotate with two hands. | <sub>Demo</sub> | <a href="https://gesture-aviary.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/aviary">Case&nbsp;study</a> |
+| **LUDOVERSE** | Classic Ludo, reimagined — a deterministic, replayable engine with bots, five modes and progression. | <sub>Demo · Single-device play</sub> | <a href="https://ludoverse-dun.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/ludoverse">Case&nbsp;study</a> |
+| **OTP Slingshot** | OTP verification as a physics toy: load a digit, pull back, fire it into the code. | <sub>Demo</sub> | <a href="https://otp-slingshot.vercel.app">Live&nbsp;↗</a><br><a href="https://github.com/aqkprogrammer/otp-slingshot">Code</a><br><a href="https://techhub.cafe/me/work/otp-slingshot">Case&nbsp;study</a> |
+| **Receipt Printer** | A three-step checkout that ends in a thermal receipt you feed out and tear off. Zero dependencies. | <sub>Demo</sub> | <a href="https://receipt-printer-tau.vercel.app">Live&nbsp;↗</a><br><a href="https://github.com/aqkprogrammer/receipt-printer">Code</a><br><a href="https://techhub.cafe/me/work/receipt-printer">Case&nbsp;study</a> |
+| **Orbit Cards** | A 3D wallet interface: eight cards on a spinnable ring, with four layouts and a detail view. | <sub>Demo</sub> | <a href="https://orbit-cards-seven.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/orbit-cards">Case&nbsp;study</a> |
+| **Vault** | A password-strength meter where the lock upgrades as you type: paperclip, padlock, deadbolt, bank vault. | <sub>Demo · Reel recreation</sub> | <a href="https://vault-meter.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/vault-meter">Case&nbsp;study</a> |
+| **Hanging Cards** | A conference badge on a lanyard you can grab, toss, flip and rack — with rope physics and sound. | <sub>Demo · Reel recreation</sub> | <a href="https://hanging-cards.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/hanging-cards">Case&nbsp;study</a> |
+
+</details>
+
+
+<details>
+<summary><b>Product & design studies</b> — 7 builds</summary>
+
+| Project | What it is | Status | Links |
+|---|---|---|---|
+| **Kagaz** | Wedding-invitation websites for South Asian weddings — 18 designs, cinematic openings and one-tap RSVP. | <sub>Prototype · Front-end MVP · mocked persistence</sub> | <a href="https://kagaz-nine.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/kagaz">Case&nbsp;study</a> |
+| **Vanilla Studio** | An editorial storefront concept for a women's fashion boutique, engineered for speed. | <sub>Demo · Mock catalogue · no checkout</sub> | <a href="https://vanilla-studio.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/vanilla-studio">Case&nbsp;study</a> |
+| **Mirror IX** | A fashion storefront where you stack vector garments on a model, then hand the look to Gemini to render. | <sub>Demo</sub> | <a href="https://mirror-nine-mauve.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/mirror-nine">Case&nbsp;study</a> |
+| **NOVA BREW** | A scroll-driven sci-fi coffee configurator with a live holographic cup. | <sub>Demo</sub> | <a href="https://nova-brew.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/nova-brew">Case&nbsp;study</a> |
+| **Lumen Atelier** | A lighting catalogue where every fixture is procedural SVG that actually lights up with the time of day. | <sub>Demo</sub> | <a href="https://lumen-atelier-nu.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/lumen-atelier">Case&nbsp;study</a> |
+| **Sartor** | The anatomy of a suit — an exploded technical plate driven by scroll, and a cloth configurator drawn thread by thread. | <sub>Demo</sub> | <a href="https://sartor-protocol.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/sartor">Case&nbsp;study</a> |
+| **Crema Club** | An editorial site for a fictional gelateria, with a cone builder that prices your order. | <sub>Demo</sub> | <a href="https://crema-club-phi.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/crema-club">Case&nbsp;study</a> |
+
+</details>
+
+
+<details>
+<summary><b>Client work & engineering assessments</b> — 4 builds</summary>
+
+| Project | What it is | Status | Links |
+|---|---|---|---|
+| **SearchMyGuide** | A three-sided travel marketplace — travellers book local guides, guides run their business, admins run the platform. | <sub>Client · Deployed · pre-launch</sub> | <a href="https://searchmyguide.com">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/searchmyguide">Case&nbsp;study</a> |
+| **Faiz DTF & UV Printing** | Marketing site for a Lucknow print shop that turns visitors into WhatsApp quote requests — with zero image assets. | <sub>Client · Pre-launch</sub> | <a href="https://faiz-web.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/faiz-web">Case&nbsp;study</a> |
+| **SkillGraph** | Career skill and learning-path explorer on a property graph — multi-hop openCypher over Bolt. Built for Wexa.ai. | <sub>Assessment · Wexa.ai take-home</sub> | <a href="https://github.com/aqkprogrammer/skillgraph">Code</a><br><a href="https://techhub.cafe/me/work/skillgraph">Case&nbsp;study</a> |
+| **Clinical Snapshot** | A one-page clinical summary from a deliberately messy FHIR R4 bundle — correctly uncertain by design. | <sub>Assessment · Health-tech take-home (24h)</sub> | <a href="https://github.com/aqkprogrammer/clinical-snapshot">Code</a><br><a href="https://techhub.cafe/me/work/clinical-snapshot">Case&nbsp;study</a> |
+
+</details>
+
+
+## ◆ Experience
+
+
+| When | Role | Where |
+|---|---|---|
+| 2025 — 2026 | **Senior Software Engineer** · Tractable AI | Noida, India |
+| 2021 — 2025 | **Lead Software Engineer** · Annalect · Omnicom | Gurgaon, India |
+| 2022 — 2023 | **On-site Engineer** · Volkswagen · EOL | Munich, Germany |
+| 2020 — 2021 | **Software Developer** · Dyninno Group | Gurgaon, India |
+| 2019 — 2020 | **Software Engineer** · Emirates · Dew Solutions | Dubai, UAE |
+| 2016 — 2019 | **Software Engineer** · CoderSoft · Halwits | Gurgaon · Lucknow |
+
+
+## ◆ Toolkit
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Abdul%20Qadir%20Khan&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20AI%20Tinkerer&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,nodejs,nestjs,swift,tailwind,graphql&theme=dark" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,docker,kubernetes,aws,githubactions,rust,tauri&theme=dark" alt="Data and infrastructure">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Abdul Qadir Khan</h1>
+<p align="center"><sub><b>AI</b> — LLM agents (LangGraph, tool calling) · hybrid RAG (pgvector, Qdrant, ChromaDB) · evals & observability · speech (Deepgram, ElevenLabs, LiveKit) · on-device (MLX, Core ML) · computer vision (MediaPipe)</sub></p>
+
+
+## ◆ Activity
+
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;SaaS+Builder+%26+Product+Thinker;AI+Integrations+%26+Automation;Python+Master+%F0%9F%90%8D;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" /></a>
-</p>
-
-<h3 align="center">🚀 Full Stack Engineer · SaaS Builder · Product-Minded Developer</h3>
-
-<p align="center">
-  I design and ship <b>SaaS platforms, AI tools & scalable web apps</b> that help businesses launch fast and grow efficiently.
-</p>
-
-<p align="center">
-  <a href="https://techhub.cafe/me" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://techhub.cafe/" target="_blank">✍️ Blog</a> &nbsp;•&nbsp;
-  <a href="mailto:aqadirkhan93@gmail.com" target="_blank">📩 Email</a> &nbsp;•&nbsp;
-  <a href="https://techhub.cafe/me" target="_blank">📄 Resume</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqkprogrammer&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🐍 **Master in Python** — building AI-driven backends, automations & data tools
-- 🤖 Deep into **AI integrations** — LLMs, chatbots, audio intelligence & automation
-- 💬 Ask me about **React, Angular, JavaScript, TypeScript, Node.js, PHP, FastAPI**
-- ⚡ I build **scalable SaaS apps & real-world client solutions** end to end
-- 🎯 Focused on **performance, clean UI, and measurable business impact**
-- 🤝 Open to **freelance & long-term collaborations**
-
----
-
-## 💼 What I Do
-
-| | Service |
-|---|---|
-| 🚀 | **SaaS Development** — from MVP to scale |
-| 🛒 | **E-commerce Platforms** — custom & multi-tenant |
-| 🤖 | **AI Integrations** — chatbots, AI features, automation |
-| 🌐 | **Business Websites** — fast, SEO-friendly, conversion-focused |
-| ☁️ | **Cloud & Cost Optimization** — AWS, performance tuning |
-| 🧑‍💻 | **Full Stack Engineering** — frontend + backend APIs |
-
-> 💡 Available for freelance & long-term projects — let's build something that ships.
-
----
-
-## 🚀 Founder & Product Builder
-
-> Products I've taken from a blank canvas to live, paying-user platforms — owning the **strategy, architecture, build, deployment, growth, and operations** end-to-end.
-
----
-
-### 🧠 TechHub.Cafe — Developer Learning & Interview Prep Platform
-<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://techhub.cafe/" target="_blank"><b>Visit Project</b></a>
-
-> A developer-focused learning platform that takes engineers from *"still studying"* to *interview-ready* — across Full Stack, System Design, JavaScript, React, Node.js & Cloud.
-
-- 🎯 **AI-powered mock interviews** that adapt to each user and build practice consistency
-- 🗂️ Scalable **content-management architecture** powering categorized prep tracks & technical learning material
-- 🔍 Advanced **search, filtering, bookmarking & guided workflows** for frictionless knowledge discovery
-- 📅 **Daily coding challenges**, progress dashboards & streaks engineered for learning retention
-- 🚀 **SEO-optimized content delivery** driving organic traffic & developer acquisition
-- 💳 Subscription tier with feature-unlock gating + a full **admin panel**
-- 🧭 Owned product strategy, feature roadmap, architecture, CI/CD & platform operations
-
-`Next.js` · `TypeScript` · `Tailwind` · `Supabase` · `OpenAI` · `Stripe`
-
----
-
-### 🚗 Revio — Vehicle Ownership Intelligence Platform
-<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://revio-drab.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> A unified digital cockpit for the **entire vehicle lifecycle** — health, maintenance, insurance, and resale intelligence in one place.
-
-- 🧠 AI-powered **vehicle health monitoring**, maintenance tracking, insurance management & service-history analysis
-- 📈 **Predictive ownership scoring** built from insurance, service, battery, tyre, warranty, recall & usage signals
-- 📊 Real-time **dashboards** delivering actionable insights, alerts, maintenance recommendations & ownership analytics
-- 🏗️ Scalable **microservices + cloud architecture** designed to integrate dealerships, insurers, workshops & fleet operators
-- 🔐 Role-based administration, notification systems, reporting modules & customer-engagement workflows
-
-`Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle` · `Microservices` · `Cloud`
-
----
-
-### 📄 ContractAI — AI Contract Intelligence Platform
-<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://contract-ai-rho-six.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> Turns hours of legal reading into minutes of insight — automating contract review, risk assessment, clause extraction & compliance analysis.
-
-- 📑 **AI risk scoring & red-flag detection** across NDAs, MSAs, SaaS, employment & vendor agreements
-- 🧠 Intelligent **clause extraction & summaries** of obligations, liabilities, renewals & negotiation points (Anthropic Claude, with a deterministic regex fallback)
-- 🔄 **Clause comparison & version analysis** to accelerate negotiation and legal-review cycles
-- 📊 Enterprise **dashboards** with risk visibility, approval workflows & audit tracking
-- 🔐 Secure document pipelines with role-based permissions, activity logging & full lifecycle management
-- 💳 Multi-tenant SaaS — org tenancy, usage quotas, a Chrome extension & a public API
-
-`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Anthropic Claude` · `Stripe` · `Tailwind`
-
----
-
-### 💰 FinOpsGuard — AI Cloud Cost Intelligence Platform
-<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://finopsguard.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> Conversational FinOps that turns messy multi-cloud spend into plain-English savings — across **AWS, Azure & GCP**.
-
-- 💬 **Conversational AI** that explains cost anomalies, resource waste & optimization opportunities on demand
-- 📊 Cost-analytics dashboards with **forecasting, budgeting, anomaly detection & cost allocation**
-- ☸️ **Kubernetes & container cost visibility** for sharper infrastructure utilization & governance
-- 📈 **Executive reporting** on cloud efficiency, cost trends & financial accountability
-- 🏢 Scalable **multi-tenant SaaS** with role-based access control, reporting & subscription management
-- 🔐 Secure IAM-based integration + Stripe billing & automated reports
-
-`React` · `Node.js (Fastify)` · `Supabase` · `AWS SDK`
-
----
-
-### 🛠️ Fleet Health AI — Predictive Vehicle Diagnostics
-<sub>`Founder & Product Builder`</sub> · 🔗 <a href="https://fleet-health-ai.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> Converts engine & EV-motor audio into actionable vehicle health intelligence — catching faults *before* they become breakdowns.
-
-- 🚗 AI-powered engine & EV-motor **sound analysis** for early fault detection
-- 📊 Fleet **dashboard** with health scores, alerts & latest-scan visibility
-- 🎙️ Public **sound-check flow** with audio upload, recording & instant sharing
-- 📄 Automated **health reports** with PDF generation & downloadable summaries
-- 🔐 Fleet-scoped auth, role-based access & operational monitoring
-
-`Next.js` · `TypeScript` · `Tailwind` · `FastAPI` · `Python` · `PostgreSQL` · `SQLAlchemy` · `Docker`
-
----
-
-## 🧩 More Projects
-
-### 🛒 E-commerce SaaS Platform
-🔗 <a href="https://ecommerce-saas-ten.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> Multi-tenant commerce platform powering multiple independent stores from one codebase.
-
-- 🏬 Multi-tenant architecture (multiple stores, one platform)
-- 👑 Super Admin + Store Admin dashboards
-- 🛍️ Dynamic product system (size, color, variants)
-- 📦 Order & inventory management with customizable storefronts
-
-`Next.js` · `FastAPI` · `PostgreSQL`
-
----
-
-### 🌱 Kartavya Agro — Client Project
-🔗 <a href="https://kartavyaagro.vercel.app/" target="_blank"><b>Visit Project</b></a>
-
-> Lightweight, lead-focused website built for a nursery business on a tight budget.
-
-- 🌿 Built for a nursery business with a limited budget
-- ⚡ Lightweight, responsive & SEO-friendly
-- 🎯 Designed for **lead generation & product visibility**
-
----
-
-## ✍️ Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ⭐ Why Work With Me
-
-- ✅ Clean, maintainable, production-ready code
-- ⚡ Fast delivery without unnecessary complexity
-- 🧠 Strong product thinking — not just coding
-- 🤝 Clear communication & reliability
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,angular,js,ts,nodejs,php,tailwind,docker,aws,mongodb,postgresql,redis,firebase,git" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqkprogrammer&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aqkprogrammer&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqkprogrammer&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Founder%20%26%20Product%20Builder-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/5%2B%20SaaS%20Products%20Shipped-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aqkprogrammer?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-2ea44f?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-> 🏅 Total stars earned, commits, PRs & streaks are in the **GitHub Stats** section below.
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqkprogrammer&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity" alt="activity graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%">
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/aqkprogrammer/aqkprogrammer/output/github-snake.svg" width="100%">
 </picture>
 
----
-
-## 🧊 Contributions in 3D
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-</p>
 
 ---
 
-## 🧩 Metrics Snapshot
+<div align="center">
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="github metrics" />
-</p>
+### Have a hard problem worth solving?
 
----
+I typically reply within 48 hours, IST-friendly.
 
-## 🌐 Connect With Me
+<a href="https://techhub.cafe/me#contact"><img alt="Start a conversation" src="https://img.shields.io/badge/Start%20a%20conversation-0aa5c8?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0b1020"></a> <a href="https://medium.com/@aqkprogrammer"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b1020"></a> <a href="https://instagram.com/aq_khans"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1020"></a>
 
-<p align="center">
-  <a href="https://techhub.cafe/me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aqkprogrammer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@aqkprogrammer" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://fb.com/aqkprogrammer" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/aq_khans" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<sub>Every project above has a case study at <a href="https://techhub.cafe/me">techhub.cafe/me</a> — 55 builds, each labelled for exactly what it is.</sub>
 
----
-
-## 📬 Let's Work Together
-
-If you have an idea, need a developer, or want to build something impactful:
-
-📩 <a href="mailto:aqadirkhan93@gmail.com" target="_blank"><b>Email Me</b></a> &nbsp;·&nbsp; 🌐 <a href="https://techhub.cafe/me" target="_blank"><b>Visit Portfolio</b></a>
-
-> I usually respond within 24 hours 🚀
-
----
-
-<p align="center"><i>⚡ Build real products. Solve real problems. Keep learning. 🚀</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=120&section=footer" alt="footer" />
-</p>
+</div>
