@@ -51,6 +51,56 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 <a href="https://cluepilot-phi.vercel.app">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/cluepilot">Case&nbsp;study</a>
 
 
+## ◆ Built from scratch, end to end
+
+<sub>Marketplaces I took from an empty repo to production on my own.</sub>
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://skan.ge"><img src="assets/shots/skan-ge.webp" alt="skan.ge screenshot" width="100%"></a>
+<h3>skan.ge</h3>
+<sub><b>CLIENT · DEPLOYED · PRE-LAUNCH</b></sub>
+<p>A classifieds and real-estate marketplace for Georgia — map search, seller dashboards, agency and developer portals, and paid promotions.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostGIS</code> <code>Prisma</code></p>
+<p><a href="https://skan.ge">Live&nbsp;↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://skan.am"><img src="assets/shots/skan-am.webp" alt="skan.am screenshot" width="100%"></a>
+<h3>skan.am</h3>
+<sub><b>CLIENT · DEPLOYED · PRE-LAUNCH</b></sub>
+<p>The same platform for Armenia — one deployment, where the domain alone sets country, language and currency, with full-text search in Armenian, Russian and English.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostGIS</code> <code>Prisma</code></p>
+<p><a href="https://skan.am">Live&nbsp;↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://searchmyguide.com"><img src="assets/shots/searchmyguide.webp" alt="SearchMyGuide screenshot" width="100%"></a>
+<h3>SearchMyGuide</h3>
+<sub><b>CLIENT · DEPLOYED · PRE-LAUNCH</b></sub>
+<p>A three-sided travel marketplace — travellers book local guides, guides run their business, admins run the platform.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Stripe</code></p>
+<p><a href="https://searchmyguide.com">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/searchmyguide">Case&nbsp;study</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>What end to end means</h3>
+<sub><b>EMPTY REPO → PRODUCTION</b></sub>
+<ul>
+<li><b>Product & design</b> — roles, flows and the interface, in multiple languages</li>
+<li><b>Backend</b> — data model, APIs, sign-in with 2FA, access control</li>
+<li><b>Payments</b> — checkout, refunds, payouts and promotions</li>
+<li><b>Operations</b> — admin consoles, moderation and audit trails</li>
+<li><b>Delivery</b> — hosting, domains, nightly jobs and backups</li>
+</ul>
+<p><sub><b>Skan</b> · 75 pages · 170+ API routes · 67 data models<br>
+<b>SearchMyGuide</b> · 158 pages · 55 API routes · 105 tables</sub></p>
+</td>
+</tr>
+</table>
+
+
 ## ◆ Featured builds
 
 <sub>Click a screenshot for the full case study — problem, architecture, trade-offs and evidence.</sub>
@@ -218,11 +268,10 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 
 
 <details>
-<summary><b>Client work & engineering assessments</b> — 4 builds</summary>
+<summary><b>Client work & engineering assessments</b> — 3 builds</summary>
 
 | Project | What it is | Status | Links |
 |---|---|---|---|
-| **SearchMyGuide** | A three-sided travel marketplace — travellers book local guides, guides run their business, admins run the platform. | <sub>Client · Deployed · pre-launch</sub> | <a href="https://searchmyguide.com">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/searchmyguide">Case&nbsp;study</a> |
 | **Faiz DTF & UV Printing** | Marketing site for a Lucknow print shop that turns visitors into WhatsApp quote requests — with zero image assets. | <sub>Client · Pre-launch</sub> | <a href="https://faiz-web.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/faiz-web">Case&nbsp;study</a> |
 | **SkillGraph** | Career skill and learning-path explorer on a property graph — multi-hop openCypher over Bolt. Built for Wexa.ai. | <sub>Assessment · Wexa.ai take-home</sub> | <a href="https://github.com/aqkprogrammer/skillgraph">Code</a><br><a href="https://techhub.cafe/me/work/skillgraph">Case&nbsp;study</a> |
 | **Clinical Snapshot** | A one-page clinical summary from a deliberately messy FHIR R4 bundle — correctly uncertain by design. | <sub>Assessment · Health-tech take-home (24h)</sub> | <a href="https://github.com/aqkprogrammer/clinical-snapshot">Code</a><br><a href="https://techhub.cafe/me/work/clinical-snapshot">Case&nbsp;study</a> |
@@ -274,6 +323,6 @@ I typically reply within 48 hours, IST-friendly.
 
 <a href="https://techhub.cafe/me#contact"><img alt="Start a conversation" src="https://img.shields.io/badge/Start%20a%20conversation-0aa5c8?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0b1020"></a> <a href="https://medium.com/@aqkprogrammer"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b1020"></a> <a href="https://www.instagram.com/aqkprogrammer/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1020"></a>
 
-<sub>Every project above has a case study at <a href="https://techhub.cafe/me">techhub.cafe/me</a> — 55 builds, each labelled for exactly what it is.</sub>
+<sub>Case studies at <a href="https://techhub.cafe/me">techhub.cafe/me</a> — 55 builds, each labelled for exactly what it is.</sub>
 
 </div>

@@ -2,6 +2,7 @@
 
 Every project, status and link comes from techhub's src/app/(portfolio)/me/_data
 (dumped by scripts/dump.ts; run scripts/build.sh), so the profile never claims more than the portfolio.
+The one exception is BUILT below: Skan is not on the portfolio yet, so its cards are written here.
 """
 import json
 import os
@@ -69,6 +70,24 @@ def card(slug):
     )
 
 
+def built_card(b):
+    used.add(b['slug'])
+    stack = ' '.join(f'<code>{t}</code>' for t in b['tech'])
+    out = [f"<a href=\"{b['live']}\">Live&nbsp;↗</a>"]
+    if b['slug'] in P:
+        out.append(f"<a href=\"{case(b['slug'])}\">Case&nbsp;study</a>")
+    return (
+        f'<td width="50%" valign="top">\n'
+        f'<a href="{b["live"]}"><img src="assets/shots/{b["shot"]}.webp" alt="{b["name"]} screenshot" width="100%"></a>\n'
+        f'<h3>{b["name"]}</h3>\n'
+        f'<sub><b>{b["status"].upper()}</b></sub>\n'
+        f'<p>{b["tagline"]}</p>\n'
+        f'<p>{stack}</p>\n'
+        f'<p>{" · ".join(out)}</p>\n'
+        f'</td>'
+    )
+
+
 def table(slugs, cols=('Project', 'What it is', 'Status', 'Links')):
     rows = [f"| {' | '.join(cols)} |", '|' + '---|' * len(cols)]
     for s in slugs:
@@ -92,7 +111,44 @@ NATIVE = ['aether', 'vision', 'hangly', 'deskpal', 'flyby', 'web-hang']
 INTERACTIVE = ['demos-platform', 'gesture-arena', 'air-music', 'air-wheel', 'bloom', 'aviary', 'ludoverse',
                'otp-slingshot', 'receipt-printer', 'orbit-cards', 'vault-meter', 'hanging-cards']
 STUDIES = ['kagaz', 'vanilla-studio', 'mirror-nine', 'nova-brew', 'lumen-atelier', 'sartor', 'crema-club']
-CLIENT = ['searchmyguide', 'faiz-web', 'skillgraph', 'clinical-snapshot']
+CLIENT = ['faiz-web', 'skillgraph', 'clinical-snapshot']
+
+# Screenshots are committed in assets/shots, captured from the live sites at 1440×900.
+BUILT = [
+    {
+        'slug': 'skan-ge', 'shot': 'skan-ge', 'name': 'skan.ge', 'live': 'https://skan.ge',
+        'status': 'Client · Deployed · pre-launch',
+        'tagline': 'A classifieds and real-estate marketplace for Georgia — map search, seller dashboards, '
+                   'agency and developer portals, and paid promotions.',
+        'tech': ['Next.js', 'React', 'TypeScript', 'PostGIS', 'Prisma'],
+    },
+    {
+        'slug': 'skan-am', 'shot': 'skan-am', 'name': 'skan.am', 'live': 'https://skan.am',
+        'status': 'Client · Deployed · pre-launch',
+        'tagline': 'The same platform for Armenia — one deployment, where the domain alone sets country, '
+                   'language and currency, with full-text search in Armenian, Russian and English.',
+        'tech': ['Next.js', 'React', 'TypeScript', 'PostGIS', 'Prisma'],
+    },
+    {
+        'slug': 'searchmyguide', 'shot': 'searchmyguide', 'name': 'SearchMyGuide',
+        'live': P['searchmyguide']['live'], 'status': status(P['searchmyguide']),
+        'tagline': P['searchmyguide']['tagline'],
+        'tech': ['Next.js', 'React', 'TypeScript', 'PostgreSQL', 'Stripe'],
+    },
+]
+END_TO_END = '''<td width="50%" valign="top">
+<h3>What end to end means</h3>
+<sub><b>EMPTY REPO → PRODUCTION</b></sub>
+<ul>
+<li><b>Product & design</b> — roles, flows and the interface, in multiple languages</li>
+<li><b>Backend</b> — data model, APIs, sign-in with 2FA, access control</li>
+<li><b>Payments</b> — checkout, refunds, payouts and promotions</li>
+<li><b>Operations</b> — admin consoles, moderation and audit trails</li>
+<li><b>Delivery</b> — hosting, domains, nightly jobs and backups</li>
+</ul>
+<p><sub><b>Skan</b> · 75 pages · 170+ API routes · 67 data models<br>
+<b>SearchMyGuide</b> · 158 pages · 55 API routes · 105 tables</sub></p>
+</td>'''
 
 cp = P['cluepilot']
 used.add('cluepilot')
@@ -158,6 +214,10 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 {links(cp)}
 ''')
 
+md.append(section('◆ Built from scratch, end to end', 'Marketplaces I took from an empty repo to production on my own.'))
+md.append('\n<table>\n<tr>\n' + '\n'.join(built_card(b) for b in BUILT[:2]) + '\n</tr>\n<tr>\n'
+          + built_card(BUILT[2]) + '\n' + END_TO_END + '\n</tr>\n</table>\n')
+
 md.append(section('◆ Featured builds', 'Click a screenshot for the full case study — problem, architecture, trade-offs and evidence.'))
 rows = ['<table>']
 for i in range(0, len(FEATURED), 2):
@@ -221,7 +281,7 @@ I typically reply within 48 hours, IST-friendly.
 
 {badge('Start a conversation', '0aa5c8', 'maildotru', f'{SITE}#contact')} {badge('Medium', '000000', 'medium', 'https://medium.com/@aqkprogrammer')} {badge('Instagram', 'E4405F', 'instagram', 'https://www.instagram.com/aqkprogrammer/')}
 
-<sub>Every project above has a case study at <a href="{SITE}">techhub.cafe/me</a> — {len(DATA['projects'])} builds, each labelled for exactly what it is.</sub>
+<sub>Case studies at <a href="{SITE}">techhub.cafe/me</a> — {len(DATA['projects'])} builds, each labelled for exactly what it is.</sub>
 
 </div>
 ''')
