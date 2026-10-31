@@ -2,7 +2,7 @@
 
 Every project, status and link comes from techhub's src/app/(portfolio)/me/_data
 (dumped by scripts/dump.ts; run scripts/build.sh), so the profile never claims more than the portfolio.
-The one exception is BUILT below: Skan is not on the portfolio yet, so its cards are written here.
+The one exception is BUILT below: Skan has one case study but a card per domain, so its cards are written here.
 """
 import json
 import os
@@ -73,9 +73,10 @@ def card(slug):
 def built_card(b):
     used.add(b['slug'])
     stack = ' '.join(f'<code>{t}</code>' for t in b['tech'])
-    out = [f"<a href=\"{b['live']}\">Live&nbsp;↗</a>"]
-    if b['slug'] in P:
-        out.append(f"<a href=\"{case(b['slug'])}\">Case&nbsp;study</a>")
+    out = [
+        f"<a href=\"{b['live']}\">Live&nbsp;↗</a>",
+        f"<a href=\"{case(b['slug'])}\">Case&nbsp;study</a>",
+    ]
     return (
         f'<td width="50%" valign="top">\n'
         f'<a href="{b["live"]}"><img src="assets/shots/{b["shot"]}.webp" alt="{b["name"]} screenshot" width="100%"></a>\n'
@@ -116,15 +117,15 @@ CLIENT = ['faiz-web', 'skillgraph', 'clinical-snapshot']
 # Screenshots are committed in assets/shots, captured from the live sites at 1440×900.
 BUILT = [
     {
-        'slug': 'skan-ge', 'shot': 'skan-ge', 'name': 'skan.ge', 'live': 'https://skan.ge',
-        'status': 'Client · Deployed · pre-launch',
+        'slug': 'skan', 'shot': 'skan-ge', 'name': 'skan.ge', 'live': 'https://skan.ge',
+        'status': status(P['skan']),
         'tagline': 'A classifieds and real-estate marketplace for Georgia — map search, seller dashboards, '
                    'agency and developer portals, and paid promotions.',
         'tech': ['Next.js', 'React', 'TypeScript', 'PostGIS', 'Prisma'],
     },
     {
-        'slug': 'skan-am', 'shot': 'skan-am', 'name': 'skan.am', 'live': 'https://skan.am',
-        'status': 'Client · Deployed · pre-launch',
+        'slug': 'skan', 'shot': 'skan-am', 'name': 'skan.am', 'live': 'https://skan.am',
+        'status': status(P['skan']),
         'tagline': 'The same platform for Armenia — one deployment, where the domain alone sets country, '
                    'language and currency, with full-text search in Armenian, Russian and English.',
         'tech': ['Next.js', 'React', 'TypeScript', 'PostGIS', 'Prisma'],

@@ -64,7 +64,7 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 <sub><b>CLIENT · DEPLOYED · PRE-LAUNCH</b></sub>
 <p>A classifieds and real-estate marketplace for Georgia — map search, seller dashboards, agency and developer portals, and paid promotions.</p>
 <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostGIS</code> <code>Prisma</code></p>
-<p><a href="https://skan.ge">Live&nbsp;↗</a></p>
+<p><a href="https://skan.ge">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/skan">Case&nbsp;study</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://skan.am"><img src="assets/shots/skan-am.webp" alt="skan.am screenshot" width="100%"></a>
@@ -72,7 +72,7 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 <sub><b>CLIENT · DEPLOYED · PRE-LAUNCH</b></sub>
 <p>The same platform for Armenia — one deployment, where the domain alone sets country, language and currency, with full-text search in Armenian, Russian and English.</p>
 <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostGIS</code> <code>Prisma</code></p>
-<p><a href="https://skan.am">Live&nbsp;↗</a></p>
+<p><a href="https://skan.am">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/skan">Case&nbsp;study</a></p>
 </td>
 </tr>
 <tr>
@@ -323,6 +323,6 @@ I typically reply within 48 hours, IST-friendly.
 
 <a href="https://techhub.cafe/me#contact"><img alt="Start a conversation" src="https://img.shields.io/badge/Start%20a%20conversation-0aa5c8?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0b1020"></a> <a href="https://medium.com/@aqkprogrammer"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b1020"></a> <a href="https://www.instagram.com/aqkprogrammer/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1020"></a>
 
-<sub>Case studies at <a href="https://techhub.cafe/me">techhub.cafe/me</a> — 55 builds, each labelled for exactly what it is.</sub>
+<sub>Case studies at <a href="https://techhub.cafe/me">techhub.cafe/me</a> — 56 builds, each labelled for exactly what it is.</sub>
 
 </div>
