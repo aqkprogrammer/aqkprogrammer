@@ -176,7 +176,7 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 <sub><b>IN DEVELOPMENT · ADVANCED PROTOTYPE</b></sub>
 <p>Enterprise document intelligence: storage, PDF toolkit, OCR, e-signature and a cited RAG assistant across 17 services.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Celery</code> <code>PostgreSQL</code></p>
-<p><a href="https://techhub.cafe/me/work/docintel">Case&nbsp;study</a></p>
+<p><a href="https://docintel-mauve.vercel.app">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/docintel">Case&nbsp;study</a></p>
 </td>
 </tr>
 </table>
