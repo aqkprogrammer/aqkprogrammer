@@ -150,7 +150,7 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 <sub><b>PRODUCT · PUBLISHED ON NPM · V0.11</b></sub>
 <p>A source-first React component library for SaaS and AI products — installed as code you own, readable by coding agents.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Next.js</code> <code>Storybook</code></p>
-<p><a href="https://dowel-eight.vercel.app">Live&nbsp;↗</a> · <a href="https://github.com/aqkprogrammer/dowel-ui">Code</a> · <a href="https://techhub.cafe/me/work/dowel">Case&nbsp;study</a></p>
+<p><a href="https://dowelui.com">Live&nbsp;↗</a> · <a href="https://github.com/aqkprogrammer/dowel-ui">Code</a> · <a href="https://techhub.cafe/me/work/dowel">Case&nbsp;study</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://techhub.cafe/me/work/novaryn"><img src="assets/shots/novaryn.webp" alt="Novaryn screenshot" width="100%"></a>
@@ -176,7 +176,7 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 <sub><b>IN DEVELOPMENT · ADVANCED PROTOTYPE</b></sub>
 <p>Enterprise document intelligence: storage, PDF toolkit, OCR, e-signature and a cited RAG assistant across 17 services.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Celery</code> <code>PostgreSQL</code></p>
-<p><a href="https://docintel-mauve.vercel.app">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/docintel">Case&nbsp;study</a></p>
+<p><a href="https://docintel.vercel.app">Live&nbsp;↗</a> · <a href="https://techhub.cafe/me/work/docintel">Case&nbsp;study</a></p>
 </td>
 </tr>
 </table>
@@ -206,7 +206,7 @@ A Swift 6 / SwiftUI menu-bar app summoned with ⇧⌘Space that streams answers 
 
 | Project | What it is | Status | Links |
 |---|---|---|---|
-| **PayToRoast** | Paste a URL, get a specific, comedic and genuinely useful teardown of your website. First roast free. | <sub>Product · Deploy-ready · domain not live</sub> | <a href="https://paytoroast.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/paytoroast">Case&nbsp;study</a> |
+| **PayToRoast** | Paste a URL, get a specific, comedic and genuinely useful teardown of your website. First roast free. | <sub>Product · Live</sub> | <a href="https://paytoroast.com">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/paytoroast">Case&nbsp;study</a> |
 | **ContractRisk (Contract AI)** | Clause-by-clause contract risk review with redlines — plus a citation-validated legal assistant for Indian law. | <sub>Prototype</sub> | <a href="https://contract-ai-seven-snowy.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/contract-ai">Case&nbsp;study</a> |
 | **FinOpsGuard** | AWS cost optimisation: a rules engine finds waste, an LLM explains it to engineering, finance or the CEO. | <sub>Prototype · MVP</sub> | <a href="https://finopsguard-inky.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/finopsguard">Case&nbsp;study</a> |
 | **Revio** | Vehicle ownership platform for India — garage, reminders, OCR document vault, marketplace and an AI copilot. | <sub>Prototype</sub> | <a href="https://revio-ten-zeta.vercel.app">Live&nbsp;↗</a><br><a href="https://techhub.cafe/me/work/revio">Case&nbsp;study</a> |
